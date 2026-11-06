@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsReader_2474802010525</string>
+    <string name="title_news_reader">VLU News Reader (Lab 15)</string>
+    <string name="student_info">Bùi Duy Anh - 2474802010525</string>
+    <string name="parsing_strategy">JSON Parsing Strategy</string>
+    <string name="strategy_manual">Manual (JSONObject)</string>
+    <string name="strategy_gson">Automated (Gson)</string>
+    <string name="loading_news">Đang tải tin tức từ API...</string>
+    <string name="error_network_prefix">Lỗi kết nối mạng: </string>
+    <string name="btn_retry">Thử lại (Retry)</string>
+    <string name="test_debug_title">Intentional Debug Challenge</string>
+    <string name="btn_test_main_thread">Test NetworkOnMainThread</string>
+</resources>
